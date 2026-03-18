@@ -17,7 +17,7 @@ void PrintTableHeader()
 	cout  << "\n------------------------------------------------------------------------------------" << endl;
 }
 
-string ColumSperator(int i)
+string ColumSeparator(int i)
 {
 
 	if (i < 10) 
@@ -32,7 +32,7 @@ void PrintMultiplicationTable()
 
 	for (int i = 1; i <= 10; i++)
 	{
-		cout <<" " << i << ColumSperator(i) << "\t";
+		cout <<" " << i << ColumSeparator(i) << "\t";
 
 		for (int j=1;j<=10;j++) 
 		{
