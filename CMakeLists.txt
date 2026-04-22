@@ -25,7 +25,7 @@ add_executable(Course_5_Algorithms_Level_2
         Course_5_Algorithms_Level_2/Problem_19_RandomNumbers/Problem_19_RandomNumbers.cpp
         Course_5_Algorithms_Level_2/Problem_20_RandomLettersAndCharAndDigit/Problem_20_RandomLettersAndCharAndDigit.cpp
         Course_5_Algorithms_Level_2/Problem_21_GeneratKeys/Problem_21_GeneratKeys.cpp
-        "Course_5_Algorithms_Level_2/Problem_22_RepeatedElementsCount InArray/Problem_22_RepeatedElementsCount InArray.cpp"
+        Course_5_Algorithms_Level_2/Problem_22_RepeatedElementsCountInArray/Problem_22_RepeatedElementsCountInArray.cpp
         Course_5_Algorithms_Level_2/Problem_23_FillArrayWithRandomNumbers/Problem_23_FillArrayWithRandomNumbers.cpp
         Course_5_Algorithms_Level_2/Problem_24_MaxOfRandomArray/Problem_24_MaxOfRandomArray.cpp
         Course_5_Algorithms_Level_2/Problem_25_MinOfRandomArray/Problem_25_MinOfRandomArray.cpp
@@ -44,4 +44,7 @@ add_executable(Course_5_Algorithms_Level_2
         Course_5_Algorithms_Level_2/Problem_37_CopyArrayUsingAddArrayElement/Problem_37_CopyArrayUsingAddArrayElement.cpp
         Course_5_Algorithms_Level_2/Problem_38_CopyOddNumbersToNewArray/Problem_38_CopyOddNumbersToNewArray.cpp
         Course_5_Algorithms_Level_2/Problem_39_CopyPrimeNumbersToNewArray/Problem_39_CopyPrimeNumbersToNewArray.cpp
-        Course_5_Algorithms_Level_2/Problem_40_CopyDistinctNumbersToNewArray/Problem_40_CopyDistinctNumbersToNewArray.cpp)
+        Course_5_Algorithms_Level_2/Problem_40_CopyDistinctNumbersToNewArray/Problem_40_CopyDistinctNumbersToNewArray.cpp
+        Course_5_Algorithms_Level_2/Problem_41_IsPalindromeArray/Problem_41_IsPalindromeArray.cpp
+        Course_5_Algorithms_Level_2/Problem_42_CountOddNumbersInArray/Problem_42_CountOddNumbersInArray.cpp
+)
