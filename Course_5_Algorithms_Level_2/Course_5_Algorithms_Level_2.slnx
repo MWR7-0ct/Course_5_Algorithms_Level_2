@@ -1,0 +1,47 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Problem03Plus_PerfectNumber/Problem03Plus_PerfectNumber.vcxproj" Id="c2a7c364-7a15-4b49-bd13-14b8bbe15ff9" />
+  <Project Path="Problem03_PerfectNumberr/Problem03_PerfectNumberr.vcxproj" Id="8800538e-dc3c-45b9-9bc6-1fc56e106b32" />
+  <Project Path="Problem04_PerfectNumber/Problem04_PerfectNumber.vcxproj" Id="e222bd3c-39ef-404a-8fe5-a7d9241084f6" />
+  <Project Path="Problem_01/Problem_01.vcxproj" Id="4e71ba3c-2da1-4960-b599-dd226828dea7" />
+  <Project Path="Problem_02/Problem_02.vcxproj" Id="1290a5b3-d025-4880-b396-4adceb190e9a" />
+  <Project Path="Problem_06_SumOfDigits/Problem_06_SumOfDigits.vcxproj" Id="f41c2f7a-ad5d-4dd1-b9d4-85535fc5a5ba" />
+  <Project Path="Problem_07_ReversNumber/Problem_07_ReversNumber.vcxproj" Id="acf38991-62f6-4309-81e8-0073a859b1b1" />
+  <Project Path="Problem_08_DigitFrequency/Problem_08_DigitFrequency.vcxproj" Id="8f031d07-98db-46db-8b1d-eec8bf2102f4" />
+  <Project Path="Problem_09_DigitFrequencyOfAll/Problem_09_DigitFrequencyOfAll.vcxproj" Id="f8b1b170-a2b9-4047-b3c8-c1678a9b6c33" />
+  <Project Path="Problem_09_PrintDigitsInOrder/Problem_09_PrintDigitsInOrder.vcxproj" Id="05150f55-d711-4ad4-80e3-e2e86de5ca33" />
+  <Project Path="Problem_11_Palindrome/Problem_11_Palindrome.vcxproj" Id="67d3e2ef-c061-40a0-b779-60ef42e5457f" />
+  <Project Path="Problem_12_Invertednumberpattern/Problem_12_Invertednumberpattern.vcxproj" Id="f4e9f9f5-c102-4aa9-9204-8d6e83d1140a" />
+  <Project Path="Problem_13_InvertedNumberPattern/Problem_13_InvertedNumberPattern.vcxproj" Id="dd258d07-cfa9-4034-9142-8f42ac963fa4" />
+  <Project Path="Problem_14_InvertedNumberPattern/Problem_14_InvertedNumberPattern.vcxproj" Id="9721b26d-cc2f-4096-8b8b-59877061c353" />
+  <Project Path="Problem_15_LetterPattern/Problem_15_LetterPattern.vcxproj" Id="aa420732-6845-478a-9fd7-280628629b68" />
+  <Project Path="Problem_16_AllWordFromAAAToZZZ/Problem_16_AllWordFromAAAToZZZ.vcxproj" Id="d8767092-19b9-48c3-8f0a-366b34805818" />
+  <Project Path="Problem_17_GuessPassword/Problem_17_GuessPassword.vcxproj" Id="583b264a-6d86-4273-838a-ed79a12ece24" />
+  <Project Path="Problem_18_EncryptDecryptText/Problem_18_EncryptDecryptText.vcxproj" Id="3c4f55bb-03dd-4a7f-9086-b50433d8ae54" />
+  <Project Path="Problem_19_RandomNumbers/Problem_19_RandomNumbers.vcxproj" Id="c6be99f2-2150-475d-bf83-bfe3fc5b9e20" />
+  <Project Path="Problem_20_RandomLettersAndCharAndDigit/Problem_20_RandomLettersAndCharAndDigit.vcxproj" Id="47ca1da5-3fdf-49af-87a7-6138ac388d6c" />
+  <Project Path="Problem_21_GeneratKeys/Problem_21_GeneratKeys.vcxproj" Id="aa5901d9-cdf8-45ef-8baf-0e7a1b7fba7b" />
+  <Project Path="Problem_22_RepeatedElementsCount InArray/Problem_22_RepeatedElementsCount InArray.vcxproj" Id="1565ac5f-5598-4892-94da-847a2020536b" />
+  <Project Path="Problem_23_FillArrayWithRandomNumbers/Problem_23_FillArrayWithRandomNumbers.vcxproj" Id="9a553a67-b89f-4f43-811f-31fa535707d7" />
+  <Project Path="Problem_24_MaxOfRandomArray/Problem_24_MaxOfRandomArray.vcxproj" Id="645f7048-e7e7-4b73-bfeb-5cb86c9845d7" />
+  <Project Path="Problem_25_MinOfRandomArray/Problem_25_MinOfRandomArray.vcxproj" Id="0431dffc-a373-4e62-bde4-7b466cbf859c" />
+  <Project Path="Problem_26_SumOfRandomArray/Problem_26_SumOfRandomArray.vcxproj" Id="7108f56e-99fd-4115-a9a9-eb18f3d39982" />
+  <Project Path="Problem_27_AverageOfRandomArray/Problem_27_AverageOfRandomArray.vcxproj" Id="bd70bf30-16ea-4393-8aa8-2b0ecb8e60ec" />
+  <Project Path="Problem_28_CopyArray/Problem_28_CopyArray.vcxproj" Id="99eed371-4509-4ecc-9df6-d742fa19b964" />
+  <Project Path="Problem_29_OddNumArray/Problem_29_OddNumArray.vcxproj" Id="cb47783e-0c71-41a6-8631-18c40cb822b2" />
+  <Project Path="Problem_30_PrimeNumArray/Problem_30_PrimeNumArray.vcxproj" Id="41675cb6-6c53-4971-bd23-24060d2f7501" />
+  <Project Path="Problem_30_SumOf2Arrays/Problem_30_SumOf2Arrays.vcxproj" Id="8f75e81a-2c09-496f-a11a-f39b5c96daaa" />
+  <Project Path="Problem_31_SuffleOrderArray/Problem_31_SuffleOrderArray.vcxproj" Id="a4b8c35a-2e63-4e97-aa43-2da9f37b3bf3" />
+  <Project Path="Problem_32_CopyArrayInReverseOrder/Problem_32_CopyArrayInReverseOrder.vcxproj" Id="a80100e5-a714-4b0f-82c7-b26968826a04" />
+  <Project Path="Problem_33_FillArrayWithKeys/Problem_33_FillArrayWithKeys.vcxproj" Id="a1385c3e-1caa-4d80-8ef5-769f01829891" />
+  <Project Path="Problem_34_ReturnNumberIndexInArray/Problem_34_ReturnNumberIndexInArray.vcxproj" Id="8683bbdc-a582-4f2f-9108-f329e1b77c95" />
+  <Project Path="Problem_35_CheckNumberInArray/Problem_35_CheckNumberInArray.vcxproj" Id="1fb17d03-41e1-45b9-ab49-ab31faa75e76" />
+  <Project Path="Problem_36_AddArrayElementSimiDynamic/Problem_36_AddArrayElementSimiDynamic.vcxproj" Id="8c84ce74-97d0-4fb0-a0e8-7dc5dccc224f" />
+  <Project Path="Problem_37_CopyArrayUsingAddArrayElement/Problem_37_CopyArrayUsingAddArrayElement.vcxproj" Id="d926c25f-79b9-49b2-bc4d-cb683c8458c7" />
+  <Project Path="Problem_38_CopyOddNumbersToNewArray/Problem_38_CopyOddNumbersToNewArray.vcxproj" Id="2d48ed0c-0dad-4c5f-91c5-b2a5c613f75a" />
+  <Project Path="Problem_39_CopyPrimeNumbersToNewArray/Problem_39_CopyPrimeNumbersToNewArray.vcxproj" Id="ebbdf7d7-b2c1-46ea-9bdd-0a0d60151fd7" />
+  <Project Path="Problem_40_CopyDistinctNumbersToNewArray/Problem_40_CopyDistinctNumbersToNewArray.vcxproj" Id="ade35c07-727d-4c7e-90a8-47bf1c9ad738" />
+</Solution>

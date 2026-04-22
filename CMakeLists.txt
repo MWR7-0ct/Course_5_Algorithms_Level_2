@@ -1,0 +1,47 @@
+cmake_minimum_required(VERSION 4.2)
+project(Course_5_Algorithms_Level_2)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Course_5_Algorithms_Level_2
+        Course_5_Algorithms_Level_2/Problem03_PerfectNumberr/Problem_03_PerfectNumber.cpp
+        Course_5_Algorithms_Level_2/Problem03Plus_PerfectNumber/Problem_04_PerfectNumberFrom1ToN.cpp
+        Course_5_Algorithms_Level_2/Problem04_PerfectNumber/Problem_05_PrintDigitsInReversOrder.cpp
+        Course_5_Algorithms_Level_2/Problem_01/Problem_01_MultiplicationTableFrom_1To_10.cpp
+        Course_5_Algorithms_Level_2/Problem_02/Problem_02_PrimeNumber.cpp
+        Course_5_Algorithms_Level_2/Problem_06_SumOfDigits/Problem_06_SumOfDigits.cpp
+        Course_5_Algorithms_Level_2/Problem_07_ReversNumber/Problem_07_ReversNumber.cpp
+        Course_5_Algorithms_Level_2/Problem_08_DigitFrequency/Problem_08_DigitFrequency.cpp
+        Course_5_Algorithms_Level_2/Problem_09_DigitFrequencyOfAll/Problem_09_DigitFrequencyOfAll.cpp
+        Course_5_Algorithms_Level_2/Problem_09_PrintDigitsInOrder/Problem_10_PrintDigitsInOrder.cpp
+        Course_5_Algorithms_Level_2/Problem_11_Palindrome/Problem_11_Palindrome.cpp
+        Course_5_Algorithms_Level_2/Problem_12_Invertednumberpattern/Problem_12_Invertednumberpattern.cpp
+        Course_5_Algorithms_Level_2/Problem_13_InvertedNumberPattern/Problem_13_InvertedNumberPattern.cpp
+        Course_5_Algorithms_Level_2/Problem_14_InvertedNumberPattern/Problem_14_InvertedLetterPattern.cpp
+        Course_5_Algorithms_Level_2/Problem_15_LetterPattern/Problem_15_LetterPattern.cpp
+        Course_5_Algorithms_Level_2/Problem_16_AllWordFromAAAToZZZ/Problem_16_AllWordFromAAAToZZZ.cpp
+        Course_5_Algorithms_Level_2/Problem_17_GuessPassword/Problem_17_GuessPassword.cpp
+        Course_5_Algorithms_Level_2/Problem_18_EncryptDecryptText/Problem_18_EncryptDecryptText.cpp
+        Course_5_Algorithms_Level_2/Problem_19_RandomNumbers/Problem_19_RandomNumbers.cpp
+        Course_5_Algorithms_Level_2/Problem_20_RandomLettersAndCharAndDigit/Problem_20_RandomLettersAndCharAndDigit.cpp
+        Course_5_Algorithms_Level_2/Problem_21_GeneratKeys/Problem_21_GeneratKeys.cpp
+        "Course_5_Algorithms_Level_2/Problem_22_RepeatedElementsCount InArray/Problem_22_RepeatedElementsCount InArray.cpp"
+        Course_5_Algorithms_Level_2/Problem_23_FillArrayWithRandomNumbers/Problem_23_FillArrayWithRandomNumbers.cpp
+        Course_5_Algorithms_Level_2/Problem_24_MaxOfRandomArray/Problem_24_MaxOfRandomArray.cpp
+        Course_5_Algorithms_Level_2/Problem_25_MinOfRandomArray/Problem_25_MinOfRandomArray.cpp
+        Course_5_Algorithms_Level_2/Problem_26_SumOfRandomArray/Problem_26_SumOfRandomArray.cpp
+        Course_5_Algorithms_Level_2/Problem_27_AverageOfRandomArray/Problem_27_AverageOfRandomArray.cpp
+        Course_5_Algorithms_Level_2/Problem_28_CopyArray/Problem_28_CopyArray.cpp
+        Course_5_Algorithms_Level_2/Problem_29_OddNumArray/Problem_29_Out_OddNumArray.cpp
+        Course_5_Algorithms_Level_2/Problem_30_PrimeNumArray/Problem_29_PrimeNumArray.cpp
+        Course_5_Algorithms_Level_2/Problem_30_SumOf2Arrays/Problem_30_SumOf2Arrays.cpp
+        Course_5_Algorithms_Level_2/Problem_31_SuffleOrderArray/Problem_31_SuffleOrderArray.cpp
+        Course_5_Algorithms_Level_2/Problem_32_CopyArrayInReverseOrder/Problem_32_CopyArrayInReverseOrder.cpp
+        Course_5_Algorithms_Level_2/Problem_33_FillArrayWithKeys/Problem_33_FillArrayWithKeys.cpp
+        Course_5_Algorithms_Level_2/Problem_34_ReturnNumberIndexInArray/Problem_34_ReturnNumberIndexInArray.cpp
+        Course_5_Algorithms_Level_2/Problem_35_CheckNumberInArray/Problem_35_CheckNumberInArray.cpp
+        Course_5_Algorithms_Level_2/Problem_36_AddArrayElementSimiDynamic/Problem_36_AddArrayElementSimiDynamic.cpp
+        Course_5_Algorithms_Level_2/Problem_37_CopyArrayUsingAddArrayElement/Problem_37_CopyArrayUsingAddArrayElement.cpp
+        Course_5_Algorithms_Level_2/Problem_38_CopyOddNumbersToNewArray/Problem_38_CopyOddNumbersToNewArray.cpp
+        Course_5_Algorithms_Level_2/Problem_39_CopyPrimeNumbersToNewArray/Problem_39_CopyPrimeNumbersToNewArray.cpp
+        Course_5_Algorithms_Level_2/Problem_40_CopyDistinctNumbersToNewArray/Problem_40_CopyDistinctNumbersToNewArray.cpp)
