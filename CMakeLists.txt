@@ -47,4 +47,7 @@ add_executable(Course_5_Algorithms_Level_2
         Course_5_Algorithms_Level_2/Problem_40_CopyDistinctNumbersToNewArray/Problem_40_CopyDistinctNumbersToNewArray.cpp
         Course_5_Algorithms_Level_2/Problem_41_IsPalindromeArray/Problem_41_IsPalindromeArray.cpp
         Course_5_Algorithms_Level_2/Problem_42_CountOddNumbersInArray/Problem_42_CountOddNumbersInArray.cpp
+        Course_5_Algorithms_Level_2/Problem_43_CountEvenNumbersInArray/Problem_43_CountEvenNumbersInArray.cpp
+        Course_5_Algorithms_Level_2/Problem_44_CountPositiveNumbersInArray/Problem_44_CountPositiveNumbersInArray.cpp
+        Course_5_Algorithms_Level_2/Problem_45_CountNegativeNumbersInArray/Problem_45_CountNegativeNumbersInArray.cpp
 )

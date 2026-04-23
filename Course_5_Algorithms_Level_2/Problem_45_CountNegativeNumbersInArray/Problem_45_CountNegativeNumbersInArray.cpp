@@ -22,7 +22,7 @@ void FillArrayElements(int Arr[100], int ArrLength)
 {
     for (int i = 0; i < ArrLength; i++)
     {
-        Arr[i] = RandomNumber(1,100);
+        Arr[i] = RandomNumber(-100,100);
     }
 }
 
@@ -32,7 +32,7 @@ void CountOddElement(int Arr1[100], int ArrLength1,int &CountNegativeNumbers)
     CountNegativeNumbers = 0;
     for (int i = 0; i < ArrLength1; i++) {
 
-        if (Arr1[i] %2 != 0)
+        if ( Arr1[i] < 0 )
         {
             CountNegativeNumbers++;
         }
@@ -49,7 +49,7 @@ void PrintArray(int arr[100], int arrLength)
 
 int main()
 {
-srand((unsigned int)time(NULL));
+    srand((unsigned int)time(NULL));
 
     int arr1[100];
 
@@ -62,11 +62,11 @@ srand((unsigned int)time(NULL));
     cout << "Array1 elements: ";
     PrintArray(arr1, arrLength1);
 
-    int CountOddNumbers = 0;
+    int count_negative_numbers = 0;
 
 
-    CountOddElement(arr1, arrLength1, CountOddNumbers);
-    cout << "\nOdd Numbers is : " << CountOddNumbers << "\n";
+    CountOddElement(arr1, arrLength1, count_negative_numbers);
+    cout << "\nPositive Numbers is : " << count_negative_numbers << "\n";
 
 
     return 0;

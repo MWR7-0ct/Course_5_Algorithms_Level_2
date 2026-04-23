@@ -32,7 +32,7 @@ void CountOddElement(int Arr1[100], int ArrLength1,int &CountNegativeNumbers)
     CountNegativeNumbers = 0;
     for (int i = 0; i < ArrLength1; i++) {
 
-        if (Arr1[i] %2 != 0)
+        if (Arr1[i] %2 == 0)
         {
             CountNegativeNumbers++;
         }
@@ -62,11 +62,11 @@ srand((unsigned int)time(NULL));
     cout << "Array1 elements: ";
     PrintArray(arr1, arrLength1);
 
-    int CountOddNumbers = 0;
+    int count_even_numbers = 0;
 
 
-    CountOddElement(arr1, arrLength1, CountOddNumbers);
-    cout << "\nOdd Numbers is : " << CountOddNumbers << "\n";
+    CountOddElement(arr1, arrLength1, count_even_numbers);
+    cout << "\nEven Numbers is : " << count_even_numbers << "\n";
 
 
     return 0;
